@@ -5,12 +5,12 @@ Please look at my **pinned projects** to see my featured work.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Stack
 
-- **Cloud**: AWS(ECS Fargate, ALB, Cognito, Lambda), GCP(Cloud Run)
-- **DevOps**: Docker, Github Actions
-- **Programming**: Python, Java
-- **Web Development**: Spring Boot, JPA
-- **ML & DL**: PyTorch, TensorFlow
-- **Tools**: Linux, Git, Figma
+- **Cloud**: `AWS`(`ECS Fargate`, `ALB`, `Cognito`, `Lambda`, `API Gateway`), `GCP`(`Cloud Run`)
+- **DevOps**: `Docker`, `Github Actions`
+- **Programming**: `Python`, `Java`
+- **Web Development**: `Spring Boot`, `JPA`
+- **ML & DL**: `PyTorch`, `TensorFlow`
+- **Tools**: `Linux`, `Git`
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> Links ##
