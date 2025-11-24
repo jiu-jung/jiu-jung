@@ -10,7 +10,7 @@ Please look at my **pinned projects** to see my featured work.
   - **GCP** - `VM`, `Cloud Run`
 - **DevOps** - `Terraform`, `Kubernetes`, `Docker`, `Github Actions`, `Bash Script`
 - **Programming** - `Python`, `Java`
-- - **ML & DL** - `PyTorch`, `TensorFlow`
+- **ML & DL** - `PyTorch`, `TensorFlow`
 - **Web Development** - `Spring Boot`
 - **Tools** - `Linux`, `Git`
 
