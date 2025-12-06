@@ -5,10 +5,16 @@ Please look at my **pinned projects** to see my featured work.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Stack
 
-- **Cloud**
-  - **AWS** - `EC2`, `EKS`, `ECS`, `S3`, `IAM`, `ALB`, `VPC`, `Cognito`, `Lambda`, `API Gateway`
-  - **GCP** - `VM`, `Cloud Run`
-- **DevOps** - `Terraform`, `Kubernetes`, `Docker`, `Github Actions`, `Bash Script`
+- **AWS**
+  - Compute - `EC2`, `EKS`, `ECS`
+  - Serverless & Build - `Lambda`, `API Gateway`, `CodeBuild`
+  - Messaging & Storage -`SQS`, `S3`
+  - Networking & Security - `ALB`, `VPC`, `IAM`, `Cognito`
+- **DevOps**
+  - `Terraform`, `Terraform Cloud`
+  - `Kubernetes`, `k3s`
+  - `Docker`, `Buildpacks`
+  - `GitHub Actions`, `Bash Script`
 - **Programming** - `Python`, `Java`
 - **ML & DL** - `PyTorch`, `TensorFlow`
 - **Web Development** - `Spring Boot`
